@@ -1,16 +1,21 @@
-# 🚧 README em construção 🚧
+# Projeto Trivia 👾🎮
 
-<!-- Olá, Tryber!
+Aplicação web construída em grupo, que consiste em um jogo de perguntas e respostas.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+* Construída utilizado React, Redux e CSS3.
+* Aplicação das metodologia ágeis: Kanban e Scrum.
 
-É essencial que você preencha esse documento por conta própria, ok?
+### Instruções
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+- Para rodar a aplicação localmente, realize o clone do projeto e utilize os comandos a seguir para inicializar:
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+```
+npm install // para instalar as dependências
+npm start // para iniciar a aplicação
+npm test // para rodar os testes da aplicação
+```
 
--->
+### Demonstração
+
+👨🏻‍💻 **Acessar:** _[Clique Aqui](https://trivia-six-blond.vercel.app/)_
+
